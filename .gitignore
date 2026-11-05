@@ -1,0 +1,14 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated database (rebuild with build_db.py)
+company_bi.db
+
+# macOS
+.DS_Store
+._*
